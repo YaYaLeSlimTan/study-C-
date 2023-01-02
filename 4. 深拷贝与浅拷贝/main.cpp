@@ -3,21 +3,21 @@
 
 class person {
 public:
-	int m_Age;
-	int* m_Height;
+	int m_Age=0;
+	int* m_Height = (int*)malloc(sizeof(int));
 public:
 	person() {
 		printf("默认构造函数的调用\n");
 	}
 	person(int age,int height) {
 		m_Age = age;
-		m_Height = (int*)malloc(sizeof(int));
 		*m_Height = height;
 		printf("有参构造函数的调用\n");
 	}
 	person(const person& p) {
 		m_Age = p.m_Age;
-		m_Height = p.m_Height;//编译器默认的拷贝操作，让两个指针指向同一块堆空间
+		//m_Height = p.m_Height;//编译器默认的拷贝操作，让两个指针指向同一块堆空间
+		*m_Height = *p.m_Height;
 	}
 	~person() {
 		free(m_Height);
