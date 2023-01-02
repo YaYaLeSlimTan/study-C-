@@ -4,7 +4,8 @@
 class person {
 public:
 	int m_Age=0;
-	int* m_Height = (int*)malloc(sizeof(int));
+	//int* m_Height = (int*)malloc(sizeof(int));
+	int* m_Height = new int();
 public:
 	person() {
 		printf("默认构造函数的调用\n");
@@ -21,7 +22,7 @@ public:
 
 	}
 	~person() {
-		free(m_Height);
+		delete m_Height;
 		m_Height = NULL;
 		printf("析构函数的调用\n");
 	}
