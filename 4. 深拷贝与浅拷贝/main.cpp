@@ -32,6 +32,7 @@ void test01() {
 	person p1(10,183);
 	person p2(p1);
 
+
 	printf("p1的年龄为：%d, p1的身高为：%d\n", p1.m_Age,*p1.m_Height);
 	printf("p2的年龄为：%d, p2的身高为：%d\n", p2.m_Age,*p2.m_Height);
 }
