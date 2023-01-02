@@ -18,6 +18,7 @@ public:
 		m_Age = p.m_Age;
 		//m_Height = p.m_Height;//编译器默认的拷贝操作，让两个指针指向同一块堆空间
 		*m_Height = *p.m_Height;
+
 	}
 	~person() {
 		free(m_Height);
