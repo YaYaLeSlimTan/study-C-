@@ -22,8 +22,10 @@ public:
 
 	}
 	~person() {
-		delete m_Height;
-		m_Height = NULL;
+		if (m_Height != NULL) {
+			delete m_Height;
+			m_Height = NULL;
+		}
 		printf("析构函数的调用\n");
 	}
 };
