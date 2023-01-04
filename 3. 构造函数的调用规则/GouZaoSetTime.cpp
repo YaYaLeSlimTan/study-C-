@@ -1,9 +1,9 @@
 #include "GouZaoSetTime.h"
 #include <stdio.h>
 
-	person::person() {
+	/*person::person() {
 		printf("默认构造函数的调用\n");
-	}
+	}*/
 	person::person(int age) {
 		m_Age = age;
 		printf("有参构造函数的调用\n");
