@@ -21,8 +21,8 @@ void test01() {
 	//person(p2);//不要用拷贝函数初始化一个匿名对象，person p2;
 	printf("---------------------------------\n");
 
-	/*printf("p2的年龄为：%d\n", p2.age);
-	printf("p3的年龄为：%d\n", p3.age);*/
+	printf("p2的年龄为：%d\n", p2.age);
+	printf("p3的年龄为：%d\n", p3.age);
 }
 
 int main() {
