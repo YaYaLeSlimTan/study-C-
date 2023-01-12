@@ -27,7 +27,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. 类做友元", "11. 类
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12. 成员函数做友元", "12. 成员函数做友元\12. 成员函数做友元.vcxproj", "{F8B816EE-521A-42A7-9A21-0EACE870A64E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. C++运算符重载", "13. C++运算符重载\13. C++运算符重载.vcxproj", "{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. 加号——运算符重载", "13. C++运算符重载\13. C++运算符重载.vcxproj", "{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14. 左移运算符重载", "14. 左移运算符重载\14. 左移运算符重载.vcxproj", "{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}.Release|x64.Build.0 = Release|x64
 		{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}.Release|x86.ActiveCfg = Release|Win32
 		{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}.Release|x86.Build.0 = Release|Win32
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Debug|x64.ActiveCfg = Debug|x64
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Debug|x64.Build.0 = Debug|x64
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Debug|x86.ActiveCfg = Debug|Win32
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Debug|x86.Build.0 = Debug|Win32
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Release|x64.ActiveCfg = Release|x64
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Release|x64.Build.0 = Release|x64
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Release|x86.ActiveCfg = Release|Win32
+		{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
