@@ -3,8 +3,11 @@
 using namespace std;
 
 class Person {
-public:
+	friend ostream& operator<<(ostream& cout, Person& p);
+private:
 	int m_A;
 	int m_B;
+public:
+	Person(int a,int b);
 	void operator<<(ostream& p);
 };

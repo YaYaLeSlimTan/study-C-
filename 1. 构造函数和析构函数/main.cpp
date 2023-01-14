@@ -3,6 +3,7 @@
 
 
 void test01() {
+	//1.À¨ºÅ·¨
 	/*person p1;
 	person p2(10);
 	person p3(p2);*/
