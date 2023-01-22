@@ -24,6 +24,7 @@
     <ProjectGuid>{c7f8d228-6055-4ef2-88a3-cd28d492514e}</ProjectGuid>
     <RootNamespace>My2拷贝构造函数的调用时机</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>02. 拷贝构造函数的调用时机</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

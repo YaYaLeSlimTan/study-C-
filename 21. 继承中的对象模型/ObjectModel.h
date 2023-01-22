@@ -1,0 +1,15 @@
+#pragma once
+
+class Base{
+public:
+	int m_A;
+protected:
+	int m_B;
+private:
+	int m_C;
+};
+
+class Son :public Base{
+public:
+	int m_D;
+};

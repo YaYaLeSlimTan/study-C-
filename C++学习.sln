@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. 构造函数和析构函数", "1. 构造函数和析构函数\1. 构造函数和析构函数.vcxproj", "{EE6A6A17-AAB5-410B-89AD-6817708B3ED0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01. 构造函数和析构函数", "1. 构造函数和析构函数\1. 构造函数和析构函数.vcxproj", "{EE6A6A17-AAB5-410B-89AD-6817708B3ED0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. 拷贝构造函数的调用时机", "2. 拷贝构造函数的调用时机\2. 拷贝构造函数的调用时机.vcxproj", "{C7F8D228-6055-4EF2-88A3-CD28D492514E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02. 拷贝构造函数的调用时机", "2. 拷贝构造函数的调用时机\2. 拷贝构造函数的调用时机.vcxproj", "{C7F8D228-6055-4EF2-88A3-CD28D492514E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. 构造函数的调用规则", "3. 构造函数的调用规则\3. 构造函数的调用规则.vcxproj", "{083B9A26-E5CD-4DC9-A03F-D870961D6E2F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03. 构造函数的调用规则", "3. 构造函数的调用规则\3. 构造函数的调用规则.vcxproj", "{083B9A26-E5CD-4DC9-A03F-D870961D6E2F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. 深拷贝与浅拷贝", "4. 深拷贝与浅拷贝\4. 深拷贝与浅拷贝.vcxproj", "{03F9D333-797D-432D-9789-1A964259E811}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04. 深拷贝与浅拷贝", "4. 深拷贝与浅拷贝\4. 深拷贝与浅拷贝.vcxproj", "{03F9D333-797D-432D-9789-1A964259E811}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. 类对象作为类成员", "5. 类对象作为类成员\5. 类对象作为类成员.vcxproj", "{9E7A5714-8FAE-46ED-A461-F890368FF44F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05. 类对象作为类成员", "5. 类对象作为类成员\5. 类对象作为类成员.vcxproj", "{9E7A5714-8FAE-46ED-A461-F890368FF44F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. 静态成员", "6. 静态成员\6. 静态成员.vcxproj", "{53342CB3-19C1-4876-BEC1-4E4221512EF8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. 静态成员", "6. 静态成员\6. 静态成员.vcxproj", "{53342CB3-19C1-4876-BEC1-4E4221512EF8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. 对象特性", "7. 对象特性\7. 对象特性.vcxproj", "{97B66E8E-A8E0-4018-BBAC-13BD88ACE61F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07. 对象特性", "7. 对象特性\7. 对象特性.vcxproj", "{97B66E8E-A8E0-4018-BBAC-13BD88ACE61F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. 空指针调用成员函数", "8. 空指针调用成员函数\8. 空指针调用成员函数.vcxproj", "{6A52F999-327E-48D0-B62F-85EB7E117F7F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08. 空指针调用成员函数", "8. 空指针调用成员函数\8. 空指针调用成员函数.vcxproj", "{6A52F999-327E-48D0-B62F-85EB7E117F7F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9. const修饰成员函数", "9. const修饰成员函数\9. const修饰成员函数.vcxproj", "{29EB354B-C47C-4C36-A363-15F5C22C518C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09. const修饰成员函数", "9. const修饰成员函数\9. const修饰成员函数.vcxproj", "{29EB354B-C47C-4C36-A363-15F5C22C518C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10. 全局函数做友元", "10. 全局函数做友元\10. 全局函数做友元.vcxproj", "{D57B97B6-3565-4A5D-A16B-F56F9D0A5641}"
 EndProject
@@ -27,7 +27,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. 类做友元", "11. 类
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12. 成员函数做友元", "12. 成员函数做友元\12. 成员函数做友元.vcxproj", "{F8B816EE-521A-42A7-9A21-0EACE870A64E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. 加号——运算符重载", "13. C++运算符重载\13. C++运算符重载.vcxproj", "{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. 加号运算符重载", "13. C++运算符重载\13. C++运算符重载.vcxproj", "{EC848538-6CB9-4100-BCA8-CC5CB835CDB1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14. 左移运算符重载", "14. 左移运算符重载\14. 左移运算符重载.vcxproj", "{5011A818-D62C-4B91-A1F7-7BDAE6EE1E64}"
 EndProject
@@ -38,6 +38,22 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17. 关系运算符重载", "17. 关系运算符重载\17. 关系运算符重载.vcxproj", "{13433AAD-FA80-4846-880E-07A84FDEB0A6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18. 仿函数——函数调用运算符重载", "18. 仿函数——函数调用运算符重载\18. 仿函数——函数调用运算符重载.vcxproj", "{86C16D72-ABA1-44F9-9197-262DBBCF85A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19. 继承", "19. 继承\19. 继承.vcxproj", "{DB7CDC13-F63C-478F-8CB9-857393CFE744}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20. 继承方式", "20. 继承方式\20. 继承方式.vcxproj", "{2F712B79-7FAA-4800-B449-961D1FB83789}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21. 继承中的对象模型", "21. 继承中的对象模型\21. 继承中的对象模型.vcxproj", "{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22. 继承——构造和析构顺序", "22. 继承——构造和析构顺序\22. 继承——构造和析构顺序.vcxproj", "{955A54FD-8982-49EB-9E9A-0CE1814AD347}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23. 继承——同名成员的处理", "23. 继承——同名成员的处理\23. 继承——同名成员的处理.vcxproj", "{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24.多继承语法", "多继承语法\多继承语法.vcxproj", "{2B91037A-EBF9-4C41-84CA-581FF683ED27}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25. 菱形继承", "25. 菱形继承\25. 菱形继承.vcxproj", "{A60DA412-2B48-46A5-A2AF-A2BD9638344C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26. 多态——虚函数（地址晚绑定）", "26. 多态——虚函数（地址晚绑定）\26. 多态——虚函数（地址晚绑定）.vcxproj", "{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +207,70 @@ Global
 		{86C16D72-ABA1-44F9-9197-262DBBCF85A2}.Release|x64.Build.0 = Release|x64
 		{86C16D72-ABA1-44F9-9197-262DBBCF85A2}.Release|x86.ActiveCfg = Release|Win32
 		{86C16D72-ABA1-44F9-9197-262DBBCF85A2}.Release|x86.Build.0 = Release|Win32
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Debug|x64.ActiveCfg = Debug|x64
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Debug|x64.Build.0 = Debug|x64
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Debug|x86.Build.0 = Debug|Win32
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Release|x64.ActiveCfg = Release|x64
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Release|x64.Build.0 = Release|x64
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Release|x86.ActiveCfg = Release|Win32
+		{DB7CDC13-F63C-478F-8CB9-857393CFE744}.Release|x86.Build.0 = Release|Win32
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Debug|x64.ActiveCfg = Debug|x64
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Debug|x64.Build.0 = Debug|x64
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Debug|x86.Build.0 = Debug|Win32
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Release|x64.ActiveCfg = Release|x64
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Release|x64.Build.0 = Release|x64
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Release|x86.ActiveCfg = Release|Win32
+		{2F712B79-7FAA-4800-B449-961D1FB83789}.Release|x86.Build.0 = Release|Win32
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Debug|x64.ActiveCfg = Debug|x64
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Debug|x64.Build.0 = Debug|x64
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Debug|x86.Build.0 = Debug|Win32
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Release|x64.ActiveCfg = Release|x64
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Release|x64.Build.0 = Release|x64
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Release|x86.ActiveCfg = Release|Win32
+		{D938D693-A2CF-4F10-A2BB-2F10B0C9F65F}.Release|x86.Build.0 = Release|Win32
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Debug|x64.ActiveCfg = Debug|x64
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Debug|x64.Build.0 = Debug|x64
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Debug|x86.ActiveCfg = Debug|Win32
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Debug|x86.Build.0 = Debug|Win32
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Release|x64.ActiveCfg = Release|x64
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Release|x64.Build.0 = Release|x64
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Release|x86.ActiveCfg = Release|Win32
+		{955A54FD-8982-49EB-9E9A-0CE1814AD347}.Release|x86.Build.0 = Release|Win32
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Debug|x64.ActiveCfg = Debug|x64
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Debug|x64.Build.0 = Debug|x64
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Debug|x86.ActiveCfg = Debug|Win32
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Debug|x86.Build.0 = Debug|Win32
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Release|x64.ActiveCfg = Release|x64
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Release|x64.Build.0 = Release|x64
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Release|x86.ActiveCfg = Release|Win32
+		{90D8EDBC-7174-481B-9D4D-72CEA0260FD2}.Release|x86.Build.0 = Release|Win32
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Debug|x64.ActiveCfg = Debug|x64
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Debug|x64.Build.0 = Debug|x64
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Debug|x86.Build.0 = Debug|Win32
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Release|x64.ActiveCfg = Release|x64
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Release|x64.Build.0 = Release|x64
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Release|x86.ActiveCfg = Release|Win32
+		{2B91037A-EBF9-4C41-84CA-581FF683ED27}.Release|x86.Build.0 = Release|Win32
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Debug|x64.ActiveCfg = Debug|x64
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Debug|x64.Build.0 = Debug|x64
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Debug|x86.Build.0 = Debug|Win32
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Release|x64.ActiveCfg = Release|x64
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Release|x64.Build.0 = Release|x64
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Release|x86.ActiveCfg = Release|Win32
+		{A60DA412-2B48-46A5-A2AF-A2BD9638344C}.Release|x86.Build.0 = Release|Win32
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Debug|x64.ActiveCfg = Debug|x64
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Debug|x64.Build.0 = Debug|x64
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Debug|x86.Build.0 = Debug|Win32
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Release|x64.ActiveCfg = Release|x64
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Release|x64.Build.0 = Release|x64
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Release|x86.ActiveCfg = Release|Win32
+		{EA1819BD-BF7B-4965-A99D-E2FFF5B1A2FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
